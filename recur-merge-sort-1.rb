@@ -15,7 +15,6 @@
 
 # [1, 2, 3, 5, 5, 8, 9]
 
-
 # input -> arr
 # output -> arr
 def sort(arr)
